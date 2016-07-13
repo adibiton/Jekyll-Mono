@@ -4,8 +4,8 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://quiet-fjord-24465.herokuapp.com/)
-Detect user input language
+### [Detect user language](https://quiet-fjord-24465.herokuapp.com/)
+Detect user input language - based on detectLanguage.com api
 
 ***
 
