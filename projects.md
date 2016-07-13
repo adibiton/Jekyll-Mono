@@ -6,6 +6,7 @@ permalink: /projects/
 
 ### [Project 1](https://quiet-fjord-24465.herokuapp.com/)
 Detect user input language
+
 ***
 
 ### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
