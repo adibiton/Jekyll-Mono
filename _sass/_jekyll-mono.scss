@@ -89,8 +89,10 @@ button.button-primary:focus {
 */
 
 .intro-header {
-  border-top: 5px solid white;
-  background-color:$mono-color;
+  //border-top: 5px solid white;
+  //background-color:$mono-color;
+	background:url($bg-image-path) no-repeat center center;
+	background-size: cover;
 }
 
 .intro-header .post-heading {
