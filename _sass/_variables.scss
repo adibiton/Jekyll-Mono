@@ -15,11 +15,19 @@ $white: #fff;
 $blue: #4183C4;
 
 
-// Main theme colors 
+//noice pallete from coolors.co
+$coolors-noice-dark-blue: rgba(1, 22, 39, 1);
+$coolors-noice-white: rgba(253, 255, 252, 1);
+$coolors-noice-light-blue: rgba(46, 196, 182, 1);
+$coolors-noice-red: rgba(231, 29, 54, 1);
+$coolors-noice-orange: rgba(255, 159, 28, 1);
+
+
+// Main theme colors
 // Some cool main theme colors(violet:#8476ad;blue:#5cacee;red:#ff7373,#ff6f69;green:#6acf64,#2ddbb3;orange:#ffa268)
 
 $mono-color:#8476ad;                // main theme color(header, links, footer icons, buttons, post-title)
-$hl-color: $darkGray;              // header link color (author name and posted on date) for blog post meta 
+$hl-color: $darkGray;              // header link color (author name and posted on date) for blog post meta
 $navbar-hover-color:$gray;        // navbar hover color (site name and navbar links hover color)
 $link-color: $darkerGray;        // normal hyperlink color other than the ones above.
 
@@ -27,8 +35,8 @@ $link-color: $darkerGray;        // normal hyperlink color other than the ones a
 // Heading colors
 // You can play around with these too!
 $h1-color: $mono-color;
-$h2-color: $mono-color; 
-$h3-color: $darkerGray; 
+$h2-color: $mono-color;
+$h3-color: $darkerGray;
 $h4-color: $gray; 
 
 // Your avatar
