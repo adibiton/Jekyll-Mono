@@ -203,8 +203,8 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $white;
-  font-size: 16px;
+	color: $coolors-navy-black;
+	font-size: 16px;
 
   @include mobile {
     margin: 3px 0;
@@ -213,7 +213,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; 
+  margin-top: 23px;
   font-family: $helveticaNeue;
   font-size: 18px;
 
@@ -226,11 +226,10 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $coolors-noice-dark-blue;
+    color: $coolors-navy-black;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-    
     &:hover, &:active {
       color: darken($navbar-hover-color,20);
     }
